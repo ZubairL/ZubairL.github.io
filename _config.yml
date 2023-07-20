@@ -21,7 +21,7 @@ email: lakhia@chapman.edu
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: ZubairL
-linkedin_username: exampleUser
+linkedin_username: zubairlakhia9
 
 
 # ABOUT ME SECTION
@@ -51,7 +51,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/file/d/1OQuJ2-ikGLwQOtEPWgR0P0k0c58huLvX/view?usp=sharing 
 
 # PROJECTS SECTION
 # show_projects_card:

@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Twitter Sentiment Analysis Project
-  descr: "Deep cleaning and analysis of scraped Twitter dataset. Projects covered data preprocessing, exploratory data analysis, and evaluation metrics. 
+  descr: "Deep cleaning and analysis of scraped Twitter dataset. Projects covered data preprocessing, exploratory data analysis, and evaluation metrics." 
   demo: https://docs.google.com/presentation/d/1IjloFllJ8_So2_9yKB8NbH2EpsdyLanO1uMqQt4IWtM/edit?usp=sharing
   tags:
     - tag: Python
@@ -23,7 +23,7 @@
   
 
 - name: IMDB Dataset Analysis
-  descr: "Project investigates the IMDB dataset. Data includes information about hundreds of movies. Applications included exploratory data analysis, regressions, clustering algorithms, and data mining/cleaning.
+  descr: "Project investigates the IMDB dataset. Data includes information about hundreds of movies. Applications included exploratory data analysis, regressions, clustering algorithms, and data mining/cleaning."
   demo: https://docs.google.com/document/d/1AIprrPLOUL6egCp6EqJRJhgD-ugVMzJSnispUuEEczw/edit?usp=sharing
   tags:
     - tag: Python
@@ -32,7 +32,7 @@
 
 
 - name: Rosetta Stone Case Study
-  descr: " Goal for this project was to use a dataset to discover information about a language learning software Rosetta Stone to better understand their subscriber/action count. 
+  descr: " Goal for this project was to use a dataset to discover information about a language learning software Rosetta Stone to better understand their subscriber/action count." 
   demo: https://docs.google.com/document/d/1nGF5kmkiKDSrict5dKycuG5Z1_0Mwkonarlc2YyLgoA/edit?usp=sharing
   tags:
     - tag: Python

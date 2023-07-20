@@ -34,13 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Primary interests in areas of work: Data Science & Engineering, computer science, statistical sciences, analytics, bioinformatics, biostatistics, informatics, and analyst-related positions. 
-
-I am currently pursuing a MS in Analytics at Georgia Tech with a concentration in Computational Data Analytics and am open to work. 
- 
-Skills: Python, R, SQL
-Github: https://github.com/ZubairL 
-Feel free to contact me at lakhia@chapman.edu If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Primary interests in areas of work: Data Science & Engineering, computer science, statistical sciences, analytics, bioinformatics, biostatistics, informatics, and analyst-related positions. I am currently pursuing a MS in Analytics at Georgia Tech with a concentration in Computational Data Analytics and am open to work. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
 # show_skills_card:

@@ -32,8 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Thanks for checking out my portfolio! I am a passionate, driven, data enthusiast. I'm currently located in San Jose, California, but open to work anywhere in the US. When I'm not working, I enjoy hitting the gym and playing any racket sport you can name. I am an adrenaline junky, with the constant drive to seek exhilarating experiences to push my boundaries. My <a class="highlight-link" href="https://github.com/ZubairL" target="_blank" rel="noreferrer"> Github </ can be found at this link, and featured projects can be found below. 
-
+about_me_description: Thanks for checking out my portfolio! I am a passionate, driven, data enthusiast. I'm currently located in San Jose, California, but open to work anywhere in the US. When I'm not working, I enjoy hitting the gym and playing any racket sport you can name. I am an adrenaline junky, with the constant drive to seek exhilarating experiences to push my boundaries. 
 
 
 # SKILLS SECTION
@@ -54,6 +53,8 @@ timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://drive.google.com/file/d/1OQuJ2-ikGLwQOtEPWgR0P0k0c58huLvX/view?usp=sharing 
+
+
 
 # PROJECTS SECTION
 # show_projects_card:

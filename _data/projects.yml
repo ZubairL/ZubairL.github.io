@@ -13,25 +13,3 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Twitter Sentiment Analysis Project
-  descr: "Deep cleaning and analysis of scraped Twitter dataset. Projects covered data preprocessing, exploratory data analysis, and evaluation metrics." 
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: NLP
-    - tag: Naive Bayes Classifier 
-  
-
-- name: IMDB Dataset Analysis
-  descr: "Project investigates the IMDB dataset. Data includes information about hundreds of movies. Applications included exploratory data analysis, regressions, clustering algorithms, and data mining/cleaning."
-    - tag: Python
-    - tag: EDA
-    - tag: Logistic/Linear Regression
-
-
-- name: Rosetta Stone Case Study
-  descr: "Goal for this project was to use a dataset to discover information about a language learning software Rosetta Stone to better understand their subscriber/action count." 
-  tags:
-    - tag: Python
-    - tag: R
-    - tag: Tableau

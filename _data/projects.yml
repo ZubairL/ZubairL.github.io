@@ -13,3 +13,10 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Twitter Sentiment Analysis Project
+  descr: "Deep cleaning and analysis of scraped Twitter dataset. Projects covered data preprocessing, exploratory data analysis, and evaluation metrics." 
+  demo: https://example.com/
+  tags:
+    - tag: Python
+    - tag: NLP
+    - tag: Naive Bayes Classifier 

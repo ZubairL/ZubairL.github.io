@@ -20,3 +20,19 @@
     - tag: Python
     - tag: NLP
     - tag: Naive Bayes Classifier 
+
+- name: IMDB Dataset Analysis
+  descr: "Project investigates the IMDB dataset. Data includes information about hundreds of movies. Applications included exploratory data analysis, regressions, clustering algorithms, and data mining/cleaning."
+  demo: https://drive.google.com/file/d/1w7glv-KREsdERwbrmhXQt1uXJoWupcr-/view?usp=sharing
+  tags:
+    - tag: Python
+    - tag: EDA
+    - tag: Logistic/Linear Regression
+
+- name: Rosetta Stone Case Study
+  descr: "Goal for this project was to use a dataset to discover information about a language learning software Rosetta Stone to better understand their subscriber/action count." 
+  demo: https://drive.google.com/file/d/1Yp7PUbTL2unY3dG1qnyWS-3cnb3rKjos/view?usp=sharing
+  tags:
+    - tag: Python
+    - tag: R
+    - tag: Tableau
